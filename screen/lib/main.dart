@@ -59,6 +59,7 @@ class _HomePageState extends State<HomePage> {
         onTap: (index) {
           if (index == 0) {
             print(index);
+            // test
             Home();
           } else if (index == 1) {
             print(index);
